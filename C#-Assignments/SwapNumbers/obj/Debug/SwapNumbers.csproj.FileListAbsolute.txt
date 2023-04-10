@@ -1,0 +1,12 @@
+\\192.168.2.1\msc fy\mscfy44\C# Assignments\SwapNumbers\bin\Debug\SwapNumbers.exe.config
+\\192.168.2.1\msc fy\mscfy44\C# Assignments\SwapNumbers\bin\Debug\SwapNumbers.exe
+\\192.168.2.1\msc fy\mscfy44\C# Assignments\SwapNumbers\bin\Debug\SwapNumbers.pdb
+\\192.168.2.1\msc fy\mscfy44\C# Assignments\SwapNumbers\obj\Debug\SwapNumbers.csproj.AssemblyReference.cache
+\\192.168.2.1\msc fy\mscfy44\C# Assignments\SwapNumbers\obj\Debug\SwapNumbers.csproj.SuggestedBindingRedirects.cache
+\\192.168.2.1\msc fy\mscfy44\C# Assignments\SwapNumbers\obj\Debug\SwapNumbers.csproj.CoreCompileInputs.cache
+\\192.168.2.1\msc fy\mscfy44\C# Assignments\SwapNumbers\obj\Debug\SwapNumbers.exe
+\\192.168.2.1\msc fy\mscfy44\C# Assignments\SwapNumbers\obj\Debug\SwapNumbers.pdb
+C:\Users\ravindrakambale\Downloads\New folder\C# Assignments\SwapNumbers\obj\Debug\SwapNumbers.csproj.CoreCompileInputs.cache
+C:\Users\ravindrakambale\Downloads\New folder\C# Assignments\SwapNumbers\obj\Debug\SwapNumbers.exe
+C:\Users\ravindrakambale\Downloads\New folder\C# Assignments\SwapNumbers\obj\Debug\SwapNumbers.pdb
+C:\Users\ravindrakambale\Downloads\New folder\C# Assignments\SwapNumbers\obj\Debug\SwapNumbers.csprojAssemblyReference.cache

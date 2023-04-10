@@ -1,0 +1,14 @@
+\\192.168.2.1\msc fy\mscfy44\C# Assignments\RectangularArray\bin\Debug\RectangularArray.exe.config
+\\192.168.2.1\msc fy\mscfy44\C# Assignments\RectangularArray\bin\Debug\RectangularArray.exe
+\\192.168.2.1\msc fy\mscfy44\C# Assignments\RectangularArray\bin\Debug\RectangularArray.pdb
+\\192.168.2.1\msc fy\mscfy44\C# Assignments\RectangularArray\obj\Debug\RectangularArray.csproj.AssemblyReference.cache
+\\192.168.2.1\msc fy\mscfy44\C# Assignments\RectangularArray\obj\Debug\RectangularArray.csproj.SuggestedBindingRedirects.cache
+\\192.168.2.1\msc fy\mscfy44\C# Assignments\RectangularArray\obj\Debug\RectangularArray.csproj.CoreCompileInputs.cache
+\\192.168.2.1\msc fy\mscfy44\C# Assignments\RectangularArray\obj\Debug\RectangularArray.exe
+\\192.168.2.1\msc fy\mscfy44\C# Assignments\RectangularArray\obj\Debug\RectangularArray.pdb
+C:\Users\ravindrakambale\Downloads\New folder\C# Assignments\RectangularArray\bin\Debug\RectangularArray.exe.config
+C:\Users\ravindrakambale\Downloads\New folder\C# Assignments\RectangularArray\bin\Debug\RectangularArray.exe
+C:\Users\ravindrakambale\Downloads\New folder\C# Assignments\RectangularArray\bin\Debug\RectangularArray.pdb
+C:\Users\ravindrakambale\Downloads\New folder\C# Assignments\RectangularArray\obj\Debug\RectangularArray.csproj.CoreCompileInputs.cache
+C:\Users\ravindrakambale\Downloads\New folder\C# Assignments\RectangularArray\obj\Debug\RectangularArray.exe
+C:\Users\ravindrakambale\Downloads\New folder\C# Assignments\RectangularArray\obj\Debug\RectangularArray.pdb

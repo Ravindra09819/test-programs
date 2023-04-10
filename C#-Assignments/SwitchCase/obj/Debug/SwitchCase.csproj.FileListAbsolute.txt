@@ -1,0 +1,15 @@
+\\192.168.2.1\msc fy\mscfy44\C# Assignments\SwitchCase\bin\Debug\SwitchCase.exe.config
+\\192.168.2.1\msc fy\mscfy44\C# Assignments\SwitchCase\bin\Debug\SwitchCase.exe
+\\192.168.2.1\msc fy\mscfy44\C# Assignments\SwitchCase\bin\Debug\SwitchCase.pdb
+\\192.168.2.1\msc fy\mscfy44\C# Assignments\SwitchCase\obj\Debug\SwitchCase.csproj.AssemblyReference.cache
+\\192.168.2.1\msc fy\mscfy44\C# Assignments\SwitchCase\obj\Debug\SwitchCase.csproj.SuggestedBindingRedirects.cache
+\\192.168.2.1\msc fy\mscfy44\C# Assignments\SwitchCase\obj\Debug\SwitchCase.csproj.CoreCompileInputs.cache
+\\192.168.2.1\msc fy\mscfy44\C# Assignments\SwitchCase\obj\Debug\SwitchCase.exe
+\\192.168.2.1\msc fy\mscfy44\C# Assignments\SwitchCase\obj\Debug\SwitchCase.pdb
+C:\Users\ravindrakambale\Downloads\New folder\C# Assignments\SwitchCase\bin\Debug\SwitchCase.exe.config
+C:\Users\ravindrakambale\Downloads\New folder\C# Assignments\SwitchCase\bin\Debug\SwitchCase.exe
+C:\Users\ravindrakambale\Downloads\New folder\C# Assignments\SwitchCase\bin\Debug\SwitchCase.pdb
+C:\Users\ravindrakambale\Downloads\New folder\C# Assignments\SwitchCase\obj\Debug\SwitchCase.csprojAssemblyReference.cache
+C:\Users\ravindrakambale\Downloads\New folder\C# Assignments\SwitchCase\obj\Debug\SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\ravindrakambale\Downloads\New folder\C# Assignments\SwitchCase\obj\Debug\SwitchCase.exe
+C:\Users\ravindrakambale\Downloads\New folder\C# Assignments\SwitchCase\obj\Debug\SwitchCase.pdb
