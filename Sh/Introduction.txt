@@ -1,0 +1,38 @@
+
+
+Hello, i am Ravindra Kambale,my family consists of 4 members including me,
+my father is farmer,my mother is house wife,my brother is pursing bachelor of Arts,
+coming to my education background i have done bachelor's in computer science 
+from PVP college loni and right now i am in the second year master's of computer 
+science at fergusson college pune.while doing my academics i have done 3 project 
+namely,1.cafe billing system
+        2.house rental system
+        3.music player application
+        and  as far as my hobbies are concerned
+        l like to movies,
+       i like to travel 
+      i like  driving bike
+        thank you that's all about me
+
+
+
+
+This project is to save the important information. The important information can be stored in the computer and can be viewed anytime. The main purpose of this project is to reduce the writing.
+
+Cafe Billings system:
+Cafe billing system 
+This project is built to reduce the workload of the workers of the cafe as all the work will be done on computer. No paper work is needed, the admin can add and edit orders as per customers request and it will generate bill of the orders in the end.
+This reduces cost, time, manpower. Hence it is feasible in all domains.
+
+Home rental system
+This system is built for the sake of both customers and landlords. Here the landlord can put their flat, apartments for rent and the customer can search the rented flats according to their requirement. And there is no need of brokerage fee as customer can directly contact the landlord which becomes beneficial for thr customers
+
+
+
+After 5 yeares, i would like to see myself more matured ,experiance ,knowledge and  responsible person  in your company. make a good relationship with all office members and staff.
+
+
+
+
+
+
