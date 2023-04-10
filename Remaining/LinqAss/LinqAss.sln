@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqAss", "LinqAss\LinqAss.csproj", "{26AA62F6-4173-4E53-8AAD-1DA1BE9A60ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26AA62F6-4173-4E53-8AAD-1DA1BE9A60ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26AA62F6-4173-4E53-8AAD-1DA1BE9A60ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26AA62F6-4173-4E53-8AAD-1DA1BE9A60ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26AA62F6-4173-4E53-8AAD-1DA1BE9A60ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A5F355A-7139-4DEA-B2AC-649614697F00}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\LinqAss1\LinqAss1\bin\Debug\LinqAss1.exe.config
+C:\Users\hp\source\repos\LinqAss1\LinqAss1\bin\Debug\LinqAss1.exe
+C:\Users\hp\source\repos\LinqAss1\LinqAss1\bin\Debug\LinqAss1.pdb
+C:\Users\hp\source\repos\LinqAss1\LinqAss1\obj\Debug\LinqAss1.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\LinqAss1\LinqAss1\obj\Debug\LinqAss1.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\LinqAss1\LinqAss1\obj\Debug\LinqAss1.exe
+C:\Users\hp\source\repos\LinqAss1\LinqAss1\obj\Debug\LinqAss1.pdb
+D:\Fergusson\Practical\C#\Remaining\LinqAss1\LinqAss1\bin\Debug\LinqAss1.exe.config
+D:\Fergusson\Practical\C#\Remaining\LinqAss1\LinqAss1\bin\Debug\LinqAss1.exe
+D:\Fergusson\Practical\C#\Remaining\LinqAss1\LinqAss1\bin\Debug\LinqAss1.pdb
+D:\Fergusson\Practical\C#\Remaining\LinqAss1\LinqAss1\obj\Debug\LinqAss1.csproj.AssemblyReference.cache
+D:\Fergusson\Practical\C#\Remaining\LinqAss1\LinqAss1\obj\Debug\LinqAss1.csproj.SuggestedBindingRedirects.cache
+D:\Fergusson\Practical\C#\Remaining\LinqAss1\LinqAss1\obj\Debug\LinqAss1.csproj.CoreCompileInputs.cache
+D:\Fergusson\Practical\C#\Remaining\LinqAss1\LinqAss1\obj\Debug\LinqAss1.exe
+D:\Fergusson\Practical\C#\Remaining\LinqAss1\LinqAss1\obj\Debug\LinqAss1.pdb
