@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Capitals</title>
+
+    <style>
+        #blink {
+            animation: blink 1s infinite;
+        }
+
+        @keyframes blink {
+            0% {
+                opacity: 1;
+            }
+            50% {
+                opacity: 0;
+            }
+            100% {
+                opacity: 1;
+            }
+        }
+    </style>
+</head>
+<body>
+    <h1 id="blink"> Display Capital </h1>
+
+    <select name="countries" id="countries" onchange="getCapitals()">
+        <option value="11">--Select Country--</option>
+        <option value="0">India</option>
+        <option value="1">Japan</option>
+        <option value="2">Russia</option>
+        <option value="3">Israel</option>
+        <option value="4">UAE</option>
+    </select>
+
+    <p id="capital" style="color: blueviolet; font-size: medium;"> <b> to view Capital </b> </p>
+
+    <script>
+        var capitals = ['New Delhi', 'Tokyo', 'Moscow', 'Jerusalem', 'Abu Dhabi'];
+        
+        getCapitals = () => {
+            var c = document.getElementById('countries').selectedOptions[0].value;
+            document.getElementById("capital").innerHTML = capitals[c];
+        }
+    </script>
+</body>
+</html>

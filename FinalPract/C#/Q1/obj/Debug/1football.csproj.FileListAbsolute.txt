@@ -1,0 +1,8 @@
+C:\Users\rohit\source\repos\PracticeCSharp\12football4\bin\Debug\12football4.exe.config
+C:\Users\rohit\source\repos\PracticeCSharp\12football4\bin\Debug\12football4.exe
+C:\Users\rohit\source\repos\PracticeCSharp\12football4\bin\Debug\12football4.pdb
+C:\Users\rohit\source\repos\PracticeCSharp\12football4\obj\Debug\1football.csproj.AssemblyReference.cache
+C:\Users\rohit\source\repos\PracticeCSharp\12football4\obj\Debug\1football.csproj.SuggestedBindingRedirects.cache
+C:\Users\rohit\source\repos\PracticeCSharp\12football4\obj\Debug\1football.csproj.CoreCompileInputs.cache
+C:\Users\rohit\source\repos\PracticeCSharp\12football4\obj\Debug\12football4.exe
+C:\Users\rohit\source\repos\PracticeCSharp\12football4\obj\Debug\12football4.pdb

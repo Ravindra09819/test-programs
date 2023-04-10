@@ -1,0 +1,26 @@
+C:\Users\rohit\source\repos\PracticeCSharp\12football4\bin\Debug\12football4.exe.config
+C:\Users\rohit\source\repos\PracticeCSharp\12football4\bin\Debug\12football4.exe
+C:\Users\rohit\source\repos\PracticeCSharp\12football4\bin\Debug\12football4.pdb
+C:\Users\rohit\source\repos\PracticeCSharp\12football4\obj\Debug\11football.csproj.AssemblyReference.cache
+C:\Users\rohit\source\repos\PracticeCSharp\12football4\obj\Debug\11football.csproj.SuggestedBindingRedirects.cache
+C:\Users\rohit\source\repos\PracticeCSharp\12football4\obj\Debug\11football.csproj.CoreCompileInputs.cache
+C:\Users\rohit\source\repos\PracticeCSharp\12football4\obj\Debug\12football4.exe
+C:\Users\rohit\source\repos\PracticeCSharp\12football4\obj\Debug\12football4.pdb
+\\192.168.2.1\msc fy\mscfy19\.NET\Assignments\Assignment_1\Q1\bin\Debug\12football4.exe.config
+\\192.168.2.1\msc fy\mscfy19\.NET\Assignments\Assignment_1\Q1\bin\Debug\12football4.exe
+\\192.168.2.1\msc fy\mscfy19\.NET\Assignments\Assignment_1\Q1\bin\Debug\12football4.pdb
+\\192.168.2.1\msc fy\mscfy19\.NET\Assignments\Assignment_1\Q1\obj\Debug\12football4.exe
+\\192.168.2.1\msc fy\mscfy19\.NET\Assignments\Assignment_1\Q1\obj\Debug\12football4.pdb
+\\192.168.2.1\msc fy\mscfy19\.NET\Assignments\Assignment_1\Q1\bin\Debug\mscorlib.dll
+\\192.168.2.1\msc fy\mscfy19\.NET\Assignments\Assignment_1\Q1\bin\Debug\System.Data.dll
+\\192.168.2.1\msc fy\mscfy19\.NET\Assignments\Assignment_1\Q1\bin\Debug\System.Transactions.dll
+\\192.168.2.1\msc fy\mscfy19\.NET\Assignments\Assignment_1\Q1\bin\Debug\System.EnterpriseServices.dll
+\\192.168.2.1\msc fy\mscfy19\.NET\Assignments\Assignment_1\Q1\bin\Debug\System.Web.dll
+\\192.168.2.1\msc fy\mscfy19\.NET\Assignments\Assignment_1\Q1\bin\Debug\System.Data.OracleClient.dll
+\\192.168.2.1\msc fy\mscfy19\.NET\Assignments\Assignment_1\Q1\bin\Debug\normidna.nlp
+\\192.168.2.1\msc fy\mscfy19\.NET\Assignments\Assignment_1\Q1\bin\Debug\normnfc.nlp
+\\192.168.2.1\msc fy\mscfy19\.NET\Assignments\Assignment_1\Q1\bin\Debug\normnfd.nlp
+\\192.168.2.1\msc fy\mscfy19\.NET\Assignments\Assignment_1\Q1\bin\Debug\normnfkc.nlp
+\\192.168.2.1\msc fy\mscfy19\.NET\Assignments\Assignment_1\Q1\bin\Debug\normnfkd.nlp
+\\192.168.2.1\msc fy\mscfy19\.NET\Assignments\Assignment_1\Q1\bin\Debug\System.EnterpriseServices.Wrapper.dll
+\\192.168.2.1\msc fy\mscfy19\.NET\Assignments\Assignment_1\Q1\obj\Debug\ResolveAssemblyReference.cache

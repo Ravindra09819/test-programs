@@ -1,0 +1,16 @@
+C:\Users\singh\source\repos\Oops\Oops\bin\Debug\Oops.exe.config
+C:\Users\singh\source\repos\Oops\Oops\bin\Debug\Oops.exe
+C:\Users\singh\source\repos\Oops\Oops\bin\Debug\Oops.pdb
+C:\Users\singh\source\repos\Oops\Oops\obj\Debug\Oops.csproj.AssemblyReference.cache
+C:\Users\singh\source\repos\Oops\Oops\obj\Debug\Oops.csproj.SuggestedBindingRedirects.cache
+C:\Users\singh\source\repos\Oops\Oops\obj\Debug\Oops.csproj.CoreCompileInputs.cache
+C:\Users\singh\source\repos\Oops\Oops\obj\Debug\Oops.exe
+C:\Users\singh\source\repos\Oops\Oops\obj\Debug\Oops.pdb
+C:\Users\sstak\OneDrive\Desktop\FinalPract\csharp\Oops\Oops\bin\Debug\Oops.exe.config
+C:\Users\sstak\OneDrive\Desktop\FinalPract\csharp\Oops\Oops\bin\Debug\Oops.exe
+C:\Users\sstak\OneDrive\Desktop\FinalPract\csharp\Oops\Oops\bin\Debug\Oops.pdb
+C:\Users\sstak\OneDrive\Desktop\FinalPract\csharp\Oops\Oops\obj\Debug\Oops.csproj.AssemblyReference.cache
+C:\Users\sstak\OneDrive\Desktop\FinalPract\csharp\Oops\Oops\obj\Debug\Oops.csproj.SuggestedBindingRedirects.cache
+C:\Users\sstak\OneDrive\Desktop\FinalPract\csharp\Oops\Oops\obj\Debug\Oops.csproj.CoreCompileInputs.cache
+C:\Users\sstak\OneDrive\Desktop\FinalPract\csharp\Oops\Oops\obj\Debug\Oops.exe
+C:\Users\sstak\OneDrive\Desktop\FinalPract\csharp\Oops\Oops\obj\Debug\Oops.pdb

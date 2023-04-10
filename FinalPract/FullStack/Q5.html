@@ -1,0 +1,153 @@
+<html>
+<head>
+<script>
+
+	function validation()
+	{
+		var FirstName=document.getElementById('g').value;
+		var LastName=document.getElementById('b').value;
+		var Email=document.getElementById('c').value;
+		var user=document.getElementById('d').value;
+		var Password=document.getElementById('e').value;
+		var Confirmed=document.getElementById('f').value;
+		var regex = /^\w+([-.]?\w+)*@\w+([-.]?\w+)*\.\w+([-.]\w+)*$/;
+
+		if(FirstName=="")
+		{
+			document.getElementById('FIRSTNAME').innerHTML="Please fill the user First Name";
+			return false;
+		}
+		
+		if(LastName=="")
+		{
+			document.getElementById('LASTNAME').innerHTML="Please fill the user Last Name";
+			return false;
+		}
+		
+		if(Email=="")
+		{
+			document.getElementById('EMAIL').innerHTML="Please fill the user Email";
+			return false;
+		}
+		
+		if(!regex.test(Email))
+		{
+			document.getElementById('EMAIL').innerHTML="Please enter valid Email ID";
+			return false;
+		}
+
+		if(user=="")
+		{
+			document.getElementById('username').innerHTML="Please fill the user Field";
+			return false;
+		}
+		
+		if((user.length<=2)||(user.length>20))
+		{
+			document.getElementById('username').innerHTML="user length must be between 2 and 20;";
+			return false;
+		}
+
+		/*if(!isNAN(user))
+		{
+			document.getElementById('username').innerHTML="Only characters are allowed..";
+			return false;
+		}*/
+		
+		if(Password=="")
+		{
+			document.getElementById('PSSWD').innerHTML="Please fill the user Password";
+			return false;
+		}
+		
+		if((Password.length<=5)||(Password.length>20))
+		{
+			document.getElementById('PSSWD').innerHTML="user length must be between 5 and 20:";
+			return false;
+		}
+		
+		if(Password!=Confirmed)
+		{
+			document.getElementById('PASSWDD').innerHTML="password are not matching:";
+			return false;
+		}
+		
+		else
+		{
+			alert("Form Submitted Sucessfully...");
+			return true;
+		}
+	}
+	
+</script>
+	
+<style>
+	body{
+		background-color:yellow;
+	}
+	
+	.btn-1 {
+		color:red;
+	}
+	
+	.btn-2{
+		color:red;
+	}
+	
+	#a{
+		color:red;
+	}
+	
+	#g,#b,#c,#d,#e,#f{
+		color:Blue;
+	}
+	
+	span {
+		color:red;
+		}
+		
+</style>
+
+<body>
+<fieldset>
+<legend id="a">Form</legend>
+<form action="#" onsubmit="return validation()" class="bg-light">
+	<div>
+		First Name:<input type="text" name="firstname" id="g" placeholder="Ex.Sarthak"><br><br>
+		<span color="red" id="FIRSTNAME" ></span>
+	</div>
+	
+	<div>
+		Last Name:<input type="text" name="lastname" id="b" placeholder="Ex Takate"><br><br>
+		<span id="LASTNAME" ></span>
+	</div>
+	
+	<div>
+		Email:<input type="text" name="email" id="c" placeholder="Ex xyz@gmail.com"><br><br>
+		<span id="EMAIL" ></span>
+	</div>
+	
+	<div>
+		User id:<input type="text" name="userid" id="d"><br><br>
+		<span id="username" ></span>
+	</div>
+	
+	<div>
+		Password:<input type="Password" name="password" id="e"><br><br>
+		<span id="PSSWD" ></span>
+	</div>
+	
+	<div>
+		Confirmed Password:<input type="Password" name="password" id="f"><br><br>
+		<span id="PASSWDD"></span>
+	</div>
+	
+	<div>
+	<button class="btn-1">Submit</button>
+	<button class="btn-2">Clear</button>
+	</div>
+	
+</fieldset>
+</form>
+</body>
+</html>

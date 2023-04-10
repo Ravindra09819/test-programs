@@ -1,0 +1,30 @@
+<!-- <!DOCTYPE html> -->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gradients</title>
+
+    <style>
+        .btn-lgttb:hover ~ .page {
+            background: linear-gradient(to bottom, blue, red);
+        }
+
+        .btn-lgltr:hover ~ .page {
+            background: linear-gradient(to right, blue, red);
+        }
+
+        .btn-rg:hover ~ .page {
+            background: radial-gradient(red 40%, yellow 60%);
+        }
+    </style>
+</head>
+<body>
+    <button class="btn-lgttb">Linear Gradient: TTB</button>
+    <button class="btn-lgltr">Linear Gradient: LTR</button>
+    <button class="btn-rg">Radial Gradient</button>
+    
+    <div class="page" style="height: 100%; width: 100%;"></div>
+</body>
+</html>

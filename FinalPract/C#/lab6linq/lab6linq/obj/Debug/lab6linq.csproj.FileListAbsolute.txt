@@ -1,0 +1,16 @@
+C:\Users\singh\source\repos\lab6linq\lab6linq\bin\Debug\lab6linq.exe.config
+C:\Users\singh\source\repos\lab6linq\lab6linq\bin\Debug\lab6linq.exe
+C:\Users\singh\source\repos\lab6linq\lab6linq\bin\Debug\lab6linq.pdb
+C:\Users\singh\source\repos\lab6linq\lab6linq\obj\Debug\lab6linq.csproj.AssemblyReference.cache
+C:\Users\singh\source\repos\lab6linq\lab6linq\obj\Debug\lab6linq.csproj.SuggestedBindingRedirects.cache
+C:\Users\singh\source\repos\lab6linq\lab6linq\obj\Debug\lab6linq.csproj.CoreCompileInputs.cache
+C:\Users\singh\source\repos\lab6linq\lab6linq\obj\Debug\lab6linq.exe
+C:\Users\singh\source\repos\lab6linq\lab6linq\obj\Debug\lab6linq.pdb
+C:\Users\sstak\OneDrive\Desktop\FinalPract\csharp\lab6linq\lab6linq\bin\Debug\lab6linq.exe.config
+C:\Users\sstak\OneDrive\Desktop\FinalPract\csharp\lab6linq\lab6linq\bin\Debug\lab6linq.exe
+C:\Users\sstak\OneDrive\Desktop\FinalPract\csharp\lab6linq\lab6linq\bin\Debug\lab6linq.pdb
+C:\Users\sstak\OneDrive\Desktop\FinalPract\csharp\lab6linq\lab6linq\obj\Debug\lab6linq.csproj.AssemblyReference.cache
+C:\Users\sstak\OneDrive\Desktop\FinalPract\csharp\lab6linq\lab6linq\obj\Debug\lab6linq.csproj.SuggestedBindingRedirects.cache
+C:\Users\sstak\OneDrive\Desktop\FinalPract\csharp\lab6linq\lab6linq\obj\Debug\lab6linq.csproj.CoreCompileInputs.cache
+C:\Users\sstak\OneDrive\Desktop\FinalPract\csharp\lab6linq\lab6linq\obj\Debug\lab6linq.exe
+C:\Users\sstak\OneDrive\Desktop\FinalPract\csharp\lab6linq\lab6linq\obj\Debug\lab6linq.pdb

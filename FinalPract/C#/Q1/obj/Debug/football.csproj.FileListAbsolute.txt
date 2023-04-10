@@ -1,0 +1,48 @@
+\\192.168.2.1\msc fy\mscfy19\.NET\Assignments\Assignment_1\Q1\bin\Debug\12football4.exe.config
+\\192.168.2.1\msc fy\mscfy19\.NET\Assignments\Assignment_1\Q1\obj\Debug\12football4.exe
+\\192.168.2.1\msc fy\mscfy19\.NET\Assignments\Assignment_1\Q1\obj\Debug\12football4.pdb
+\\192.168.2.1\msc fy\mscfy25\.NET\Assignments\Assignment_1\Q1\bin\Debug\12football4.exe.config
+\\192.168.2.1\msc fy\mscfy25\.NET\Assignments\Assignment_1\Q1\bin\Debug\12football4.exe
+\\192.168.2.1\msc fy\mscfy25\.NET\Assignments\Assignment_1\Q1\bin\Debug\12football4.pdb
+\\192.168.2.1\msc fy\mscfy25\.NET\Assignments\Assignment_1\Q1\obj\Debug\football.csproj.AssemblyReference.cache
+\\192.168.2.1\msc fy\mscfy25\.NET\Assignments\Assignment_1\Q1\obj\Debug\football.csproj.SuggestedBindingRedirects.cache
+\\192.168.2.1\msc fy\mscfy25\.NET\Assignments\Assignment_1\Q1\obj\Debug\football.csproj.CoreCompileInputs.cache
+\\192.168.2.1\msc fy\mscfy25\.NET\Assignments\Assignment_1\Q1\obj\Debug\12football4.exe
+\\192.168.2.1\msc fy\mscfy25\.NET\Assignments\Assignment_1\Q1\obj\Debug\12football4.pdb
+\\192.168.2.1\msc fy\mscfy19\.NET\Assignments\Assignment_1\Q1\bin\Debug\12football4.exe
+\\192.168.2.1\msc fy\mscfy19\.NET\Assignments\Assignment_1\Q1\bin\Debug\12football4.pdb
+\\192.168.2.1\msc fy\mscfy19\.NET\Assignments\Assignment_1\Q1\obj\Debug\football.csproj.AssemblyReference.cache
+\\192.168.2.1\msc fy\mscfy19\.NET\Assignments\Assignment_1\Q1\obj\Debug\football.csproj.SuggestedBindingRedirects.cache
+\\192.168.2.1\msc fy\mscfy19\.NET\Assignments\Assignment_1\Q1\obj\Debug\football.csproj.CoreCompileInputs.cache
+\\192.168.2.1\msc fy\mscfy42\c#lab ass\Q1\bin\Debug\12football4.exe.config
+\\192.168.2.1\msc fy\mscfy42\c#lab ass\Q1\bin\Debug\12football4.exe
+\\192.168.2.1\msc fy\mscfy42\c#lab ass\Q1\bin\Debug\12football4.pdb
+\\192.168.2.1\msc fy\mscfy42\c#lab ass\Q1\obj\Debug\football.csproj.AssemblyReference.cache
+\\192.168.2.1\msc fy\mscfy42\c#lab ass\Q1\obj\Debug\football.csproj.SuggestedBindingRedirects.cache
+\\192.168.2.1\msc fy\mscfy42\c#lab ass\Q1\obj\Debug\football.csproj.CoreCompileInputs.cache
+\\192.168.2.1\msc fy\mscfy42\c#lab ass\Q1\obj\Debug\12football4.exe
+\\192.168.2.1\msc fy\mscfy42\c#lab ass\Q1\obj\Debug\12football4.pdb
+\\192.168.2.1\msc fy\mscfy42\c#lab ass\labass1\Q1\bin\Debug\12football4.exe.config
+\\192.168.2.1\msc fy\mscfy42\c#lab ass\labass1\Q1\bin\Debug\12football4.exe
+\\192.168.2.1\msc fy\mscfy42\c#lab ass\labass1\Q1\bin\Debug\12football4.pdb
+\\192.168.2.1\msc fy\mscfy42\c#lab ass\labass1\Q1\obj\Debug\football.csproj.AssemblyReference.cache
+\\192.168.2.1\msc fy\mscfy42\c#lab ass\labass1\Q1\obj\Debug\football.csproj.SuggestedBindingRedirects.cache
+\\192.168.2.1\msc fy\mscfy42\c#lab ass\labass1\Q1\obj\Debug\football.csproj.CoreCompileInputs.cache
+\\192.168.2.1\msc fy\mscfy42\c#lab ass\labass1\Q1\obj\Debug\12football4.exe
+\\192.168.2.1\msc fy\mscfy42\c#lab ass\labass1\Q1\obj\Debug\12football4.pdb
+C:\Users\sstak\OneDrive\Desktop\Sarthak Takate\Final C# Assignments\Assignment-1\Q1\bin\Debug\12football4.exe.config
+C:\Users\sstak\OneDrive\Desktop\Sarthak Takate\Final C# Assignments\Assignment-1\Q1\bin\Debug\12football4.exe
+C:\Users\sstak\OneDrive\Desktop\Sarthak Takate\Final C# Assignments\Assignment-1\Q1\bin\Debug\12football4.pdb
+C:\Users\sstak\OneDrive\Desktop\Sarthak Takate\Final C# Assignments\Assignment-1\Q1\obj\Debug\football.csproj.AssemblyReference.cache
+C:\Users\sstak\OneDrive\Desktop\Sarthak Takate\Final C# Assignments\Assignment-1\Q1\obj\Debug\football.csproj.SuggestedBindingRedirects.cache
+C:\Users\sstak\OneDrive\Desktop\Sarthak Takate\Final C# Assignments\Assignment-1\Q1\obj\Debug\football.csproj.CoreCompileInputs.cache
+C:\Users\sstak\OneDrive\Desktop\Sarthak Takate\Final C# Assignments\Assignment-1\Q1\obj\Debug\12football4.exe
+C:\Users\sstak\OneDrive\Desktop\Sarthak Takate\Final C# Assignments\Assignment-1\Q1\obj\Debug\12football4.pdb
+C:\Users\sstak\OneDrive\Desktop\FinalPract\C#\Q1\bin\Debug\12football4.exe.config
+C:\Users\sstak\OneDrive\Desktop\FinalPract\C#\Q1\bin\Debug\12football4.exe
+C:\Users\sstak\OneDrive\Desktop\FinalPract\C#\Q1\bin\Debug\12football4.pdb
+C:\Users\sstak\OneDrive\Desktop\FinalPract\C#\Q1\obj\Debug\football.csproj.AssemblyReference.cache
+C:\Users\sstak\OneDrive\Desktop\FinalPract\C#\Q1\obj\Debug\football.csproj.SuggestedBindingRedirects.cache
+C:\Users\sstak\OneDrive\Desktop\FinalPract\C#\Q1\obj\Debug\football.csproj.CoreCompileInputs.cache
+C:\Users\sstak\OneDrive\Desktop\FinalPract\C#\Q1\obj\Debug\12football4.exe
+C:\Users\sstak\OneDrive\Desktop\FinalPract\C#\Q1\obj\Debug\12football4.pdb

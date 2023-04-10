@@ -1,0 +1,16 @@
+C:\Users\singh\source\repos\lab2SaddlePoint\lab2SaddlePoint\bin\Debug\lab2SaddlePoint.exe.config
+C:\Users\singh\source\repos\lab2SaddlePoint\lab2SaddlePoint\bin\Debug\lab2SaddlePoint.exe
+C:\Users\singh\source\repos\lab2SaddlePoint\lab2SaddlePoint\bin\Debug\lab2SaddlePoint.pdb
+C:\Users\singh\source\repos\lab2SaddlePoint\lab2SaddlePoint\obj\Debug\lab2SaddlePoint.csproj.AssemblyReference.cache
+C:\Users\singh\source\repos\lab2SaddlePoint\lab2SaddlePoint\obj\Debug\lab2SaddlePoint.csproj.SuggestedBindingRedirects.cache
+C:\Users\singh\source\repos\lab2SaddlePoint\lab2SaddlePoint\obj\Debug\lab2SaddlePoint.csproj.CoreCompileInputs.cache
+C:\Users\singh\source\repos\lab2SaddlePoint\lab2SaddlePoint\obj\Debug\lab2SaddlePoint.exe
+C:\Users\singh\source\repos\lab2SaddlePoint\lab2SaddlePoint\obj\Debug\lab2SaddlePoint.pdb
+C:\Users\sstak\OneDrive\Desktop\FinalPract\csharp\lab2SaddlePoint\lab2SaddlePoint\bin\Debug\lab2SaddlePoint.exe.config
+C:\Users\sstak\OneDrive\Desktop\FinalPract\csharp\lab2SaddlePoint\lab2SaddlePoint\bin\Debug\lab2SaddlePoint.exe
+C:\Users\sstak\OneDrive\Desktop\FinalPract\csharp\lab2SaddlePoint\lab2SaddlePoint\bin\Debug\lab2SaddlePoint.pdb
+C:\Users\sstak\OneDrive\Desktop\FinalPract\csharp\lab2SaddlePoint\lab2SaddlePoint\obj\Debug\lab2SaddlePoint.csproj.AssemblyReference.cache
+C:\Users\sstak\OneDrive\Desktop\FinalPract\csharp\lab2SaddlePoint\lab2SaddlePoint\obj\Debug\lab2SaddlePoint.csproj.SuggestedBindingRedirects.cache
+C:\Users\sstak\OneDrive\Desktop\FinalPract\csharp\lab2SaddlePoint\lab2SaddlePoint\obj\Debug\lab2SaddlePoint.csproj.CoreCompileInputs.cache
+C:\Users\sstak\OneDrive\Desktop\FinalPract\csharp\lab2SaddlePoint\lab2SaddlePoint\obj\Debug\lab2SaddlePoint.exe
+C:\Users\sstak\OneDrive\Desktop\FinalPract\csharp\lab2SaddlePoint\lab2SaddlePoint\obj\Debug\lab2SaddlePoint.pdb

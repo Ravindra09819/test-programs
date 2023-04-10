@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculator</title>
+
+    <style>
+        #add, #sub, #mult, #divi{
+            height: 50px;
+            width: 100px;
+        }
+    </style>
+</head>
+<body>
+    <label for="num1">Num1</label>
+    <input type="text" name="num1" id="num1">
+    <label for="num2">Num2</label>
+    <input type="text" name="num2" id="num2">
+    <label for="output">Output</label>
+    <input type="text" name="output" id="output"> <br> <br>
+
+    <input type="button" name="add" value="+" id="add" onclick="addOutput()">
+    <input type="button" name="sub" value="-" id="sub" onclick="subOutput()">
+    <input type="button" name="mult" value="*" id="mult" onclick="multOutput()">
+    <input type="button" name="divi" value="/" id="divi" onclick="divOutput()">
+
+    <script>
+        const addOutput = () => {
+            let n1 = document.getElementById("num1").value;
+            let n2 = document.getElementById("num2").value;
+            document.getElementById("output").value = n1+n2; 
+        }
+
+        const subOutput = () => {
+            let n1 = document.getElementById("num1").value;
+            let n2 = document.getElementById("num2").value;
+            document.getElementById("output").value = n1-n2; 
+        }
+
+        const multOutput = () => {
+            let n1 = document.getElementById("num1").value;
+            let n2 = document.getElementById("num2").value;
+            document.getElementById("output").value = n1*n2; 
+        }
+
+        const divOutput = () => {
+            let n1 = document.getElementById("num1").value;
+            let n2 = document.getElementById("num2").value;
+            document.getElementById("output").value = n1/n2; 
+        }
+    </script>
+</body>
+</html>

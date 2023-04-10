@@ -1,0 +1,12 @@
+C:\Users\singh\source\repos\ExceptionH\ExceptionH\bin\Debug\ExceptionH.dll
+C:\Users\singh\source\repos\ExceptionH\ExceptionH\bin\Debug\ExceptionH.pdb
+C:\Users\singh\source\repos\ExceptionH\ExceptionH\obj\Debug\ExceptionH.csproj.AssemblyReference.cache
+C:\Users\singh\source\repos\ExceptionH\ExceptionH\obj\Debug\ExceptionH.csproj.CoreCompileInputs.cache
+C:\Users\singh\source\repos\ExceptionH\ExceptionH\obj\Debug\ExceptionH.dll
+C:\Users\singh\source\repos\ExceptionH\ExceptionH\obj\Debug\ExceptionH.pdb
+C:\Users\sstak\OneDrive\Desktop\FinalPract\csharp\ExceptionH\ExceptionH\bin\Debug\ExceptionH.dll
+C:\Users\sstak\OneDrive\Desktop\FinalPract\csharp\ExceptionH\ExceptionH\bin\Debug\ExceptionH.pdb
+C:\Users\sstak\OneDrive\Desktop\FinalPract\csharp\ExceptionH\ExceptionH\obj\Debug\ExceptionH.csproj.AssemblyReference.cache
+C:\Users\sstak\OneDrive\Desktop\FinalPract\csharp\ExceptionH\ExceptionH\obj\Debug\ExceptionH.csproj.CoreCompileInputs.cache
+C:\Users\sstak\OneDrive\Desktop\FinalPract\csharp\ExceptionH\ExceptionH\obj\Debug\ExceptionH.dll
+C:\Users\sstak\OneDrive\Desktop\FinalPract\csharp\ExceptionH\ExceptionH\obj\Debug\ExceptionH.pdb

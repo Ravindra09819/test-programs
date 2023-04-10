@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Form</title>
+</head>
+<body>
+    <form name="myForm" method="post" action="confirmation.php" onsubmit="return checkValidity();">
+
+        First Name: <input type="text" name="fname" id="fname"> <br> <br>
+
+        Last Name: <input type="text" name="lname" id="lname"> <br> <br>
+
+        Email: <input type="text" name="email" id="email"> <br> <br>
+
+        UserID: <input type="text" name="userid" id="userid"> <br> <br>
+
+        Password: <input type="text" name="password" id="password" required> <br> <br>
+
+        Confirm Password: <input type="text" name="password2" id="password2" required> <br> <br>
+
+        <input type="submit" value="submit">
+        <!-- <button onclick="checkValidity()"> Submit </button> -->
+
+        <p style="color: red;" id="errormessage"></p>
+    </form>
+
+    <script>
+        const checkValidity = () => {
+
+            let x = document.forms['myForm']['email'];
+            if(x.value.match(/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/)) {
+                document.getElementById("#errormessage").innerHTML = "Enter a valid mail!";
+                // alert("please enter a valid email.");
+                x.focus();
+                return false;
+            }
+
+            let p1 = document.getElementById("#password");
+            let p2 = document.getElementById("#password2");
+            if(p1.value != p2.value) {
+                document.getElementById("#errormessage").innerHTML = "Password doesn't match!";
+            }      
+        }
+    </script>
+</body>
+</html>

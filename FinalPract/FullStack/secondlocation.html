@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>location</title>
+</head>
+<body>
+    <!-- <input type="button" value="Where am I?" onclick="getPosition()"> <br> -->
+
+    <button onclick="getPosition()">Where am I?</button> <br> <br>
+
+    <div id="display"></div>
+
+
+    <svg height="400" width="400" >
+        <polygon points="60 13, 110 48, 92 110, 30 110, 13 48" stroke="violet" fill="yellow">
+    </svg>
+
+    <audio controls>
+        <source src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3">
+    </audio>
+
+    <!-- <video controls>
+        <source src="https://www.youtube.com/embed/RciE68Q7PCA">
+    </video> -->
+    
+    <iframe width="360" height="200" src="https://www.youtube.com/embed/RciE68Q7PCA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+    <script>
+        var x = document.getElementById("display");
+
+        let getPosition = () => {
+            if (navigator.geolocation) {
+                navigator.geolocation.getCurrentPosition(showLocation)
+            }else {
+                x.innerHTML = "Geolocation is not supported by this browser."
+            }
+        }
+
+        let showLocation = (position) => {
+            x.innerHTML = "Latitude: " +position.coords.latitude + "<br> Longitude: " +position.coords.longitude;
+        }
+
+    </script>
+</body>
+</html>
