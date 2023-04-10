@@ -1,0 +1,23 @@
+E:\ferguson\FC SEM 2 ASSIGNMENT\DotNetAssignments\ASSIGNMENT1\ASSIGNMENT1\bin\Debug\ASSIGNMENT1.exe.config
+E:\ferguson\FC SEM 2 ASSIGNMENT\DotNetAssignments\ASSIGNMENT1\ASSIGNMENT1\bin\Debug\ASSIGNMENT1.exe
+E:\ferguson\FC SEM 2 ASSIGNMENT\DotNetAssignments\ASSIGNMENT1\ASSIGNMENT1\bin\Debug\ASSIGNMENT1.pdb
+E:\ferguson\FC SEM 2 ASSIGNMENT\DotNetAssignments\ASSIGNMENT1\ASSIGNMENT1\obj\Debug\ASSIGNMENT1.csproj.AssemblyReference.cache
+E:\ferguson\FC SEM 2 ASSIGNMENT\DotNetAssignments\ASSIGNMENT1\ASSIGNMENT1\obj\Debug\ASSIGNMENT1.csproj.CoreCompileInputs.cache
+E:\ferguson\FC SEM 2 ASSIGNMENT\DotNetAssignments\ASSIGNMENT1\ASSIGNMENT1\obj\Debug\ASSIGNMENT1.exe
+E:\ferguson\FC SEM 2 ASSIGNMENT\DotNetAssignments\ASSIGNMENT1\ASSIGNMENT1\obj\Debug\ASSIGNMENT1.pdb
+\\192.168.2.1\msc fy\mscfy15\MSC15\dotnet\Lab Assignment\ASSIGNMENT11\ASSIGNMENT1\bin\Debug\ASSIGNMENT1.exe.config
+\\192.168.2.1\msc fy\mscfy15\MSC15\dotnet\Lab Assignment\ASSIGNMENT11\ASSIGNMENT1\bin\Debug\ASSIGNMENT1.exe
+\\192.168.2.1\msc fy\mscfy15\MSC15\dotnet\Lab Assignment\ASSIGNMENT11\ASSIGNMENT1\bin\Debug\ASSIGNMENT1.pdb
+\\192.168.2.1\msc fy\mscfy15\MSC15\dotnet\Lab Assignment\ASSIGNMENT11\ASSIGNMENT1\obj\Debug\ASSIGNMENT1.csproj.AssemblyReference.cache
+\\192.168.2.1\msc fy\mscfy15\MSC15\dotnet\Lab Assignment\ASSIGNMENT11\ASSIGNMENT1\obj\Debug\ASSIGNMENT1.csproj.SuggestedBindingRedirects.cache
+\\192.168.2.1\msc fy\mscfy15\MSC15\dotnet\Lab Assignment\ASSIGNMENT11\ASSIGNMENT1\obj\Debug\ASSIGNMENT1.csproj.CoreCompileInputs.cache
+\\192.168.2.1\msc fy\mscfy15\MSC15\dotnet\Lab Assignment\ASSIGNMENT11\ASSIGNMENT1\obj\Debug\ASSIGNMENT1.exe
+\\192.168.2.1\msc fy\mscfy15\MSC15\dotnet\Lab Assignment\ASSIGNMENT11\ASSIGNMENT1\obj\Debug\ASSIGNMENT1.pdb
+\\192.168.2.1\msc fy\mscfy15\MSC15\dotnet\Lab Assignment\Assignment1\ASSIGNMENT1\bin\Debug\ASSIGNMENT1.exe.config
+\\192.168.2.1\msc fy\mscfy15\MSC15\dotnet\Lab Assignment\Assignment1\ASSIGNMENT1\bin\Debug\ASSIGNMENT1.exe
+\\192.168.2.1\msc fy\mscfy15\MSC15\dotnet\Lab Assignment\Assignment1\ASSIGNMENT1\bin\Debug\ASSIGNMENT1.pdb
+\\192.168.2.1\msc fy\mscfy15\MSC15\dotnet\Lab Assignment\Assignment1\ASSIGNMENT1\obj\Debug\ASSIGNMENT1.csproj.AssemblyReference.cache
+\\192.168.2.1\msc fy\mscfy15\MSC15\dotnet\Lab Assignment\Assignment1\ASSIGNMENT1\obj\Debug\ASSIGNMENT1.csproj.SuggestedBindingRedirects.cache
+\\192.168.2.1\msc fy\mscfy15\MSC15\dotnet\Lab Assignment\Assignment1\ASSIGNMENT1\obj\Debug\ASSIGNMENT1.csproj.CoreCompileInputs.cache
+\\192.168.2.1\msc fy\mscfy15\MSC15\dotnet\Lab Assignment\Assignment1\ASSIGNMENT1\obj\Debug\ASSIGNMENT1.exe
+\\192.168.2.1\msc fy\mscfy15\MSC15\dotnet\Lab Assignment\Assignment1\ASSIGNMENT1\obj\Debug\ASSIGNMENT1.pdb

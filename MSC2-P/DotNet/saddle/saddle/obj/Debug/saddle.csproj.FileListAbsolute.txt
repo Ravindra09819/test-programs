@@ -1,0 +1,7 @@
+C:\Users\Akash Dhole\source\repos\saddle\saddle\bin\Debug\saddle.exe.config
+C:\Users\Akash Dhole\source\repos\saddle\saddle\bin\Debug\saddle.exe
+C:\Users\Akash Dhole\source\repos\saddle\saddle\bin\Debug\saddle.pdb
+C:\Users\Akash Dhole\source\repos\saddle\saddle\obj\Debug\saddle.csproj.AssemblyReference.cache
+C:\Users\Akash Dhole\source\repos\saddle\saddle\obj\Debug\saddle.csproj.CoreCompileInputs.cache
+C:\Users\Akash Dhole\source\repos\saddle\saddle\obj\Debug\saddle.exe
+C:\Users\Akash Dhole\source\repos\saddle\saddle\obj\Debug\saddle.pdb

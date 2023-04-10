@@ -1,0 +1,12 @@
+\\192.168.2.1\msc fy\mscfy44\C# Assignments\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+\\192.168.2.1\msc fy\mscfy44\C# Assignments\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+\\192.168.2.1\msc fy\mscfy44\C# Assignments\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+\\192.168.2.1\msc fy\mscfy44\C# Assignments\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+\\192.168.2.1\msc fy\mscfy44\C# Assignments\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+\\192.168.2.1\msc fy\mscfy44\C# Assignments\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+\\192.168.2.1\msc fy\mscfy15\MSC15\dotnet\.NET\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+\\192.168.2.1\msc fy\mscfy15\MSC15\dotnet\.NET\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+\\192.168.2.1\msc fy\mscfy15\MSC15\dotnet\.NET\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+\\192.168.2.1\msc fy\mscfy15\MSC15\dotnet\.NET\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+\\192.168.2.1\msc fy\mscfy15\MSC15\dotnet\.NET\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+\\192.168.2.1\msc fy\mscfy15\MSC15\dotnet\.NET\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

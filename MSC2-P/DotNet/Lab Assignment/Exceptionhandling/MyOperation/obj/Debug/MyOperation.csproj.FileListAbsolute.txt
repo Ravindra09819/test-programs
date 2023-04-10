@@ -1,0 +1,33 @@
+\\192.168.2.1\msc fy\mscfy16\dotnet\assignments\MyOperation\obj\Debug\MyOperation.csproj.AssemblyReference.cache
+\\192.168.2.1\msc fy\mscfy16\dotnet\assignments\MyOperation\obj\Debug\MyOperation.csproj.SuggestedBindingRedirects.cache
+\\192.168.2.1\msc fy\mscfy16\dotnet\assignments\MyOperation\obj\Debug\MyOperation.csproj.CoreCompileInputs.cache
+\\192.168.2.1\msc fy\mscfy16\dotnet\assignments\MyOperation\bin\Debug\MyOperation.exe.config
+\\192.168.2.1\msc fy\mscfy16\dotnet\assignments\MyOperation\bin\Debug\MyOperation.exe
+\\192.168.2.1\msc fy\mscfy16\dotnet\assignments\MyOperation\bin\Debug\MyOperation.pdb
+\\192.168.2.1\msc fy\mscfy16\dotnet\assignments\MyOperation\bin\Debug\ExceptionLibrary.dll
+\\192.168.2.1\msc fy\mscfy16\dotnet\assignments\MyOperation\bin\Debug\ExceptionLibrary.pdb
+\\192.168.2.1\msc fy\mscfy16\dotnet\assignments\MyOperation\obj\Debug\MyOperation.csproj.CopyComplete
+\\192.168.2.1\msc fy\mscfy16\dotnet\assignments\MyOperation\obj\Debug\MyOperation.exe
+\\192.168.2.1\msc fy\mscfy16\dotnet\assignments\MyOperation\obj\Debug\MyOperation.pdb
+\\192.168.2.1\msc fy\mscfy16\dotnet\assignments\assign3\MyOperation\bin\Debug\MyOperation.exe.config
+\\192.168.2.1\msc fy\mscfy16\dotnet\assignments\assign3\MyOperation\bin\Debug\MyOperation.exe
+\\192.168.2.1\msc fy\mscfy16\dotnet\assignments\assign3\MyOperation\bin\Debug\MyOperation.pdb
+\\192.168.2.1\msc fy\mscfy16\dotnet\assignments\assign3\MyOperation\bin\Debug\ExceptionLibrary.dll
+\\192.168.2.1\msc fy\mscfy16\dotnet\assignments\assign3\MyOperation\bin\Debug\ExceptionLibrary.pdb
+\\192.168.2.1\msc fy\mscfy16\dotnet\assignments\assign3\MyOperation\obj\Debug\MyOperation.csproj.AssemblyReference.cache
+\\192.168.2.1\msc fy\mscfy16\dotnet\assignments\assign3\MyOperation\obj\Debug\MyOperation.csproj.SuggestedBindingRedirects.cache
+\\192.168.2.1\msc fy\mscfy16\dotnet\assignments\assign3\MyOperation\obj\Debug\MyOperation.csproj.CoreCompileInputs.cache
+\\192.168.2.1\msc fy\mscfy16\dotnet\assignments\assign3\MyOperation\obj\Debug\MyOperation.csproj.CopyComplete
+\\192.168.2.1\msc fy\mscfy16\dotnet\assignments\assign3\MyOperation\obj\Debug\MyOperation.exe
+\\192.168.2.1\msc fy\mscfy16\dotnet\assignments\assign3\MyOperation\obj\Debug\MyOperation.pdb
+\\192.168.2.1\msc fy\mscfy15\MSC15\dotnet\Lab Assignment\Exceptionhandling\MyOperation\bin\Debug\MyOperation.exe.config
+\\192.168.2.1\msc fy\mscfy15\MSC15\dotnet\Lab Assignment\Exceptionhandling\MyOperation\bin\Debug\MyOperation.exe
+\\192.168.2.1\msc fy\mscfy15\MSC15\dotnet\Lab Assignment\Exceptionhandling\MyOperation\bin\Debug\MyOperation.pdb
+\\192.168.2.1\msc fy\mscfy15\MSC15\dotnet\Lab Assignment\Exceptionhandling\MyOperation\bin\Debug\ExceptionLibrary.dll
+\\192.168.2.1\msc fy\mscfy15\MSC15\dotnet\Lab Assignment\Exceptionhandling\MyOperation\bin\Debug\ExceptionLibrary.pdb
+\\192.168.2.1\msc fy\mscfy15\MSC15\dotnet\Lab Assignment\Exceptionhandling\MyOperation\obj\Debug\MyOperation.csproj.AssemblyReference.cache
+\\192.168.2.1\msc fy\mscfy15\MSC15\dotnet\Lab Assignment\Exceptionhandling\MyOperation\obj\Debug\MyOperation.csproj.SuggestedBindingRedirects.cache
+\\192.168.2.1\msc fy\mscfy15\MSC15\dotnet\Lab Assignment\Exceptionhandling\MyOperation\obj\Debug\MyOperation.csproj.CoreCompileInputs.cache
+\\192.168.2.1\msc fy\mscfy15\MSC15\dotnet\Lab Assignment\Exceptionhandling\MyOperation\obj\Debug\MyOperation.csproj.CopyComplete
+\\192.168.2.1\msc fy\mscfy15\MSC15\dotnet\Lab Assignment\Exceptionhandling\MyOperation\obj\Debug\MyOperation.exe
+\\192.168.2.1\msc fy\mscfy15\MSC15\dotnet\Lab Assignment\Exceptionhandling\MyOperation\obj\Debug\MyOperation.pdb

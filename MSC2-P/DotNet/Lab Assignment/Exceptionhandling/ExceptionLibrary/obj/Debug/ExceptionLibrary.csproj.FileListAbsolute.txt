@@ -1,0 +1,22 @@
+\\192.168.2.1\msc fy\mscfy16\dotnet\assignments\ExceptionLibrary\bin\Debug\ExceptionLibrary.dll
+\\192.168.2.1\msc fy\mscfy16\dotnet\assignments\ExceptionLibrary\bin\Debug\ExceptionLibrary.pdb
+\\192.168.2.1\msc fy\mscfy16\dotnet\assignments\ExceptionLibrary\obj\Debug\ExceptionLibrary.csproj.AssemblyReference.cache
+\\192.168.2.1\msc fy\mscfy16\dotnet\assignments\ExceptionLibrary\obj\Debug\ExceptionLibrary.csproj.CoreCompileInputs.cache
+\\192.168.2.1\msc fy\mscfy16\dotnet\assignments\ExceptionLibrary\obj\Debug\ExceptionLibrary.dll
+\\192.168.2.1\msc fy\mscfy16\dotnet\assignments\ExceptionLibrary\obj\Debug\ExceptionLibrary.pdb
+\\192.168.2.1\msc fy\mscfy16\dotnet\assignments\assign3\ExceptionLibrary\bin\Debug\ExceptionLibrary.dll
+\\192.168.2.1\msc fy\mscfy16\dotnet\assignments\assign3\ExceptionLibrary\bin\Debug\ExceptionLibrary.pdb
+\\192.168.2.1\msc fy\mscfy16\dotnet\assignments\assign3\ExceptionLibrary\obj\Debug\ExceptionLibrary.csproj.AssemblyReference.cache
+\\192.168.2.1\msc fy\mscfy16\dotnet\assignments\assign3\ExceptionLibrary\obj\Debug\ExceptionLibrary.csproj.CoreCompileInputs.cache
+\\192.168.2.1\msc fy\mscfy16\dotnet\assignments\assign3\ExceptionLibrary\obj\Debug\ExceptionLibrary.dll
+\\192.168.2.1\msc fy\mscfy16\dotnet\assignments\assign3\ExceptionLibrary\obj\Debug\ExceptionLibrary.pdb
+\\192.168.2.1\msc fy\mscfy15\MSC15\dotnet\Lab Assignment\Exceptinhandling\ExceptionLibrary\obj\Debug\ExceptionLibrary.csproj.AssemblyReference.cache
+\\192.168.2.1\msc fy\mscfy15\MSC15\dotnet\Lab Assignment\Exceptinhandling\ExceptionLibrary\obj\Debug\ExceptionLibrary.csproj.CoreCompileInputs.cache
+\\192.168.2.1\msc fy\mscfy15\MSC15\dotnet\Lab Assignment\Exceptinhandling\ExceptionLibrary\obj\Debug\ExceptionLibrary.dll
+\\192.168.2.1\msc fy\mscfy15\MSC15\dotnet\Lab Assignment\Exceptinhandling\ExceptionLibrary\obj\Debug\ExceptionLibrary.pdb
+\\192.168.2.1\msc fy\mscfy15\MSC15\dotnet\Lab Assignment\Exceptionhandling\ExceptionLibrary\bin\Debug\ExceptionLibrary.dll
+\\192.168.2.1\msc fy\mscfy15\MSC15\dotnet\Lab Assignment\Exceptionhandling\ExceptionLibrary\bin\Debug\ExceptionLibrary.pdb
+\\192.168.2.1\msc fy\mscfy15\MSC15\dotnet\Lab Assignment\Exceptionhandling\ExceptionLibrary\obj\Debug\ExceptionLibrary.csproj.AssemblyReference.cache
+\\192.168.2.1\msc fy\mscfy15\MSC15\dotnet\Lab Assignment\Exceptionhandling\ExceptionLibrary\obj\Debug\ExceptionLibrary.csproj.CoreCompileInputs.cache
+\\192.168.2.1\msc fy\mscfy15\MSC15\dotnet\Lab Assignment\Exceptionhandling\ExceptionLibrary\obj\Debug\ExceptionLibrary.dll
+\\192.168.2.1\msc fy\mscfy15\MSC15\dotnet\Lab Assignment\Exceptionhandling\ExceptionLibrary\obj\Debug\ExceptionLibrary.pdb

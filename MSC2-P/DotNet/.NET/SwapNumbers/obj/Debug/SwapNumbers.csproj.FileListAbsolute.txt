@@ -1,0 +1,13 @@
+\\192.168.2.1\msc fy\mscfy44\C# Assignments\SwapNumbers\bin\Debug\SwapNumbers.exe.config
+\\192.168.2.1\msc fy\mscfy44\C# Assignments\SwapNumbers\bin\Debug\SwapNumbers.exe
+\\192.168.2.1\msc fy\mscfy44\C# Assignments\SwapNumbers\bin\Debug\SwapNumbers.pdb
+\\192.168.2.1\msc fy\mscfy44\C# Assignments\SwapNumbers\obj\Debug\SwapNumbers.csproj.AssemblyReference.cache
+\\192.168.2.1\msc fy\mscfy44\C# Assignments\SwapNumbers\obj\Debug\SwapNumbers.csproj.SuggestedBindingRedirects.cache
+\\192.168.2.1\msc fy\mscfy44\C# Assignments\SwapNumbers\obj\Debug\SwapNumbers.csproj.CoreCompileInputs.cache
+\\192.168.2.1\msc fy\mscfy44\C# Assignments\SwapNumbers\obj\Debug\SwapNumbers.exe
+\\192.168.2.1\msc fy\mscfy44\C# Assignments\SwapNumbers\obj\Debug\SwapNumbers.pdb
+\\192.168.2.1\msc fy\mscfy15\MSC15\dotnet\.NET\SwapNumbers\obj\Debug\SwapNumbers.csproj.AssemblyReference.cache
+\\192.168.2.1\msc fy\mscfy15\MSC15\dotnet\.NET\SwapNumbers\obj\Debug\SwapNumbers.csproj.SuggestedBindingRedirects.cache
+\\192.168.2.1\msc fy\mscfy15\MSC15\dotnet\.NET\SwapNumbers\obj\Debug\SwapNumbers.csproj.CoreCompileInputs.cache
+\\192.168.2.1\msc fy\mscfy15\MSC15\dotnet\.NET\SwapNumbers\obj\Debug\SwapNumbers.exe
+\\192.168.2.1\msc fy\mscfy15\MSC15\dotnet\.NET\SwapNumbers\obj\Debug\SwapNumbers.pdb

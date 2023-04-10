@@ -1,0 +1,68 @@
+<!doctype html>
+<html>
+<head>
+
+    <title>Assignment 1 Q2.</title>
+
+</head>
+<body>
+    <button onclick="getLocation()">Where am I?</button>
+    <p id="location"></p>
+
+    <script>
+        var x = document.getElementById("location");
+
+        function getLocation() {
+            if (navigator.geolocation) {
+                navigator.geolocation.getCurrentPosition(showPosition, showError);
+            }
+            else {
+                x.innerHTML = "Geolocation is not supported by this browser.";
+            }
+        }
+
+        function showPosition(position) {
+            x.innerHTML = "Latitude: " + position.coords.latitude + "<br>Longitude: " + position.coords.longitude;
+        }
+
+        function showError(error) {
+            switch (error.code) {
+                case error.PERMISSION_DENIED: x.innerHTML = "User denied the request for Geolocation."
+                    break;
+                case error.POSITION_UNAVAILABLE: x.innerHTML = "Location information is unavailable."
+                    break;
+                case error.TIMEOUT: x.innerHTML = "The request to get user location timed out."
+                    break;
+                case error.UNKNOWN_ERROR: x.innerHTML = "An unknown error occurred."
+                    break;
+            }
+        }
+    </script>
+	<div>
+    <svg width="150" height="150">
+        <polygon points="60 13,110 48,92 110,30 110,13 48"
+                 stroke="purple"
+                 fill="lightblue" stroke-width="5" />
+
+        Sorry,Browser doesnt support SVG.
+    </svg>
+</div>
+<div>
+    <svg height="200" width="200">
+        <polygon points="100,10 40,180 190,60 10,60 160,180 " fill="khaki" stroke="black" stroke-width="4px"/>
+	  Sorry,Browser doesnt support SVG.
+    </svg></div>
+<div>
+    <audio controls autoplay>
+        <source src="C:\Users\harsh\Downloads\wind_naruto_ost.mp3" type="audio/mp3">
+        Your browser does not support the audio element.
+    </audio>
+</div>
+<div>    
+<video height="350" width="350" controls>
+        <source src="C:\Users\harsh\Documents\Adobe\Premiere Pro\14.0\Tree_6.mp4" type="video/mp4">
+	  Your browser does not support the video element.	
+    </video>
+</div>
+</body>
+</html>

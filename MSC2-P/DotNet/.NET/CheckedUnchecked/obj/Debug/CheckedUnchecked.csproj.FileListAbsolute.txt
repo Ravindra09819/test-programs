@@ -1,0 +1,8 @@
+\\192.168.2.1\msc fy\mscfy44\C# Assignments\CheckedUnchecked\bin\Debug\CheckedUnchecked.exe.config
+\\192.168.2.1\msc fy\mscfy44\C# Assignments\CheckedUnchecked\bin\Debug\CheckedUnchecked.exe
+\\192.168.2.1\msc fy\mscfy44\C# Assignments\CheckedUnchecked\bin\Debug\CheckedUnchecked.pdb
+\\192.168.2.1\msc fy\mscfy44\C# Assignments\CheckedUnchecked\obj\Debug\CheckedUnchecked.csproj.AssemblyReference.cache
+\\192.168.2.1\msc fy\mscfy44\C# Assignments\CheckedUnchecked\obj\Debug\CheckedUnchecked.csproj.SuggestedBindingRedirects.cache
+\\192.168.2.1\msc fy\mscfy44\C# Assignments\CheckedUnchecked\obj\Debug\CheckedUnchecked.csproj.CoreCompileInputs.cache
+\\192.168.2.1\msc fy\mscfy44\C# Assignments\CheckedUnchecked\obj\Debug\CheckedUnchecked.exe
+\\192.168.2.1\msc fy\mscfy44\C# Assignments\CheckedUnchecked\obj\Debug\CheckedUnchecked.pdb

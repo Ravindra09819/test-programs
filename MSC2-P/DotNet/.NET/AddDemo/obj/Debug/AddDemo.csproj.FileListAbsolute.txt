@@ -1,0 +1,11 @@
+\\192.168.2.1\msc fy\mscfy44\C# Assignments\AddDemo\bin\Debug\AddDemo.exe.config
+\\192.168.2.1\msc fy\mscfy44\C# Assignments\AddDemo\bin\Debug\AddDemo.exe
+\\192.168.2.1\msc fy\mscfy44\C# Assignments\AddDemo\bin\Debug\AddDemo.pdb
+\\192.168.2.1\msc fy\mscfy44\C# Assignments\AddDemo\bin\Debug\ClassLibrary1.dll
+\\192.168.2.1\msc fy\mscfy44\C# Assignments\AddDemo\bin\Debug\ClassLibrary1.pdb
+\\192.168.2.1\msc fy\mscfy44\C# Assignments\AddDemo\obj\Debug\AddDemo.csproj.AssemblyReference.cache
+\\192.168.2.1\msc fy\mscfy44\C# Assignments\AddDemo\obj\Debug\AddDemo.csproj.SuggestedBindingRedirects.cache
+\\192.168.2.1\msc fy\mscfy44\C# Assignments\AddDemo\obj\Debug\AddDemo.csproj.CoreCompileInputs.cache
+\\192.168.2.1\msc fy\mscfy44\C# Assignments\AddDemo\obj\Debug\AddDemo.csproj.CopyComplete
+\\192.168.2.1\msc fy\mscfy44\C# Assignments\AddDemo\obj\Debug\AddDemo.exe
+\\192.168.2.1\msc fy\mscfy44\C# Assignments\AddDemo\obj\Debug\AddDemo.pdb

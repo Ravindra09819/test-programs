@@ -1,0 +1,5 @@
+\\192.168.2.1\msc fy\mscfy15\MSC15\dotnet\Lab Assignment\SaddlePoint\SaddlePoint\obj\x86\Debug\ResolveAssemblyReference.cache
+\\192.168.2.1\msc fy\mscfy15\MSC15\dotnet\Lab Assignment\SaddlePoint\SaddlePoint\bin\Debug\SaddlePoint.exe
+\\192.168.2.1\msc fy\mscfy15\MSC15\dotnet\Lab Assignment\SaddlePoint\SaddlePoint\bin\Debug\SaddlePoint.pdb
+\\192.168.2.1\msc fy\mscfy15\MSC15\dotnet\Lab Assignment\SaddlePoint\SaddlePoint\obj\x86\Debug\SaddlePoint.exe
+\\192.168.2.1\msc fy\mscfy15\MSC15\dotnet\Lab Assignment\SaddlePoint\SaddlePoint\obj\x86\Debug\SaddlePoint.pdb
