@@ -1,0 +1,54 @@
+<html>
+<head>
+	<title> Linear and Radial Gradient </title>
+	
+	<style>
+	
+		.buttons {
+			margin: 10%;
+			text-align: center;
+			}
+
+		.btn-hover {
+			width: 200px;
+			font-size: 16px;
+			font-weight: 600;
+			color: #fff;
+			margin: 20px;
+			height: 55px;
+			text-align:center;
+			border: none;
+			background-size: 300% 100%;
+			}
+
+		.btn-hover:hover {
+			background-position: 100% 0;
+			transition: all .4s ease-in-out;
+		}
+		
+		.btn-hover.color-1 {
+			background-image: linear-gradient(to right, black, white, brown);
+			}
+			
+		.btn-hover.color-3 {
+			background-image: linear-gradient(to left,blue, cyan, purple);
+			}
+			
+		.btn-hover.color-2 {
+			background-image: radial-gradient(at top,green, yellow, cyan);
+			}
+			
+		.btn-hover.color-4 {
+			background-image: radial-gradient(at bottom,pink, white, red);
+			}
+	</style>
+<head>
+
+<body>
+	<div class="buttons">
+    <button class="btn-hover color-1">Linear Gradient</button>
+    <button class="btn-hover color-2">Radial Gradient</button>
+	
+	<button class="btn-hover color-3">Linear Gradient</button>
+    <button class="btn-hover color-4">Radial Gradient</button>
+	</div>
